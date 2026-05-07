@@ -7,7 +7,7 @@ The project was designed in Figma and embedded into a basic HTML page for viewin
 
 ## Prototype
 
-[Live Prototype](https://noelledeangelo.github.io/TanitiIsland/)
+[Live Prototype](https://noelledeangelo.github.io/Taniti_Tourism_prototype/)
 
 ## Features
 - Interactive clickable prototype
